@@ -1,5 +1,5 @@
-# Bloody Juice 
-_(working name)_
+# Bloody Juice _(working name)_
+
 
 ## Genres 
 - RPG
